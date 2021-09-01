@@ -29,8 +29,8 @@
 
     <button on:click={ addMoreColor }>Add more color</button>
     <button on:click={ removeLastColor }>Remove last color</button>
-	
-	<p>Click anywhere outside this panel to close it. Open this panel again by hovering and clicking the bottom-left corner of the screen.</p>
+    
+    <p>Click anywhere outside this panel to close it. Open this panel again by hovering and clicking the bottom-left corner of the screen.</p>
 
 </div>
 
